@@ -5,8 +5,11 @@ This project is a React application that displays a list of tours retrieved from
 * Clone the repository to your local machine.
 
 * In the project directory, install the dependencies by running:
+
 npm install
+
 * Start the development server by running:
+
 npm start
 
 This should open a browser window at [http://localhost:3000](), where you can see the application running.
