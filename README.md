@@ -27,3 +27,5 @@ This project relies on the following dependencies:
 * Axios
 ## Contributing
 
+If you would like to contribute to this project, please fork the repository and create a pull request.
+
